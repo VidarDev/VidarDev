@@ -42,7 +42,7 @@
 [![website](./assets/globe-light.svg)](https://github.com/24x7-Development#gh-light-mode-only)
 [![website](./assets/globe-dark.svg)](https://github.com/24x7-Development#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./assets/instagram-light.svg)](/codeSTACKr#gh-light-mode-only)
+[![website](./assets/instagram-light.svg)](#gh-light-mode-only)
 [![website](./assets/instagram-dark.svg)](#gh-dark-mode-only)
 
 [discord]: https://discord.gg/9yUjFtcFqP
