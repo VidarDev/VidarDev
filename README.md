@@ -34,6 +34,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VidarDev&repo=DiscordenoTemplate&theme=midnight-purple" />
 </a>
 
+</br>
+</br>
+
 **Connect with me:**
 
 [![website](./assets/globe-light.svg)](https://github.com/24x7-Development#gh-light-mode-only)
