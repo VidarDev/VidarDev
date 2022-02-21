@@ -25,7 +25,7 @@
 <code><img height="20" src="./assets/discord.png"></code>     
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidarDev&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidarDev&layout=compact&theme=midnight-purple&hide_border=true" /> |
 | ------------- | ------------- |
 
 **Connect with me:**
