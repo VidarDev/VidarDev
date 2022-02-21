@@ -16,12 +16,12 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="./assets/javascript.svg.png"></code>
 <code><img height="20" src="./assets/typescript.png"></code>
+<code><img height="20" src="./assets/javascript.svg.png"></code>
 <code><img height="20" src="./assets/nuxt.png"></code>
 <code><img height="20" src="./assets/node.png"></code>
 <code><img height="20" src="./assets/deno-light.svg"></code>
-<code><img height="20" src="./assets/Discordeno.png"></code>
+<code><img height="20" src="./assets/deno_hr_circle.png"></code>
 <code><img height="20" src="./assets/discord.png"></code>     
 
 
