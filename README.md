@@ -25,8 +25,7 @@
 <code><img height="20" src="./assets/discord.png"></code>     
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&title_color=#8f00ff&icon_color=#8f00ff&text_color=#8f00ff&bg_color=#161b22&hide_border=true" alt="Viðar's github stats" /></a> | 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHenry&layout=compact&theme=midnight-purple&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&title_color=#8f00ff&icon_color=#8f00ff&text_color=#8f00ff&bg_color=#161b22&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHenry&layout=compact&theme=midnight-purple&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Top Repositories
