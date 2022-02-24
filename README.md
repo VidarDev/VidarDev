@@ -31,10 +31,16 @@
 
 **Connect with me:**
 
-[![website](./assets/globe-light.svg)](https://github.com/24x7-Development#gh-light-mode-only)
-[![website](./assets/globe-dark.svg)](https://github.com/24x7-Development#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./assets/instagram-light.svg)](#gh-light-mode-only)
-[![website](./assets/instagram-dark.svg)](#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/VidarDev/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/VidarDev/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/vidar.dev/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/vidar.dev/#gh-dark-mode-only)
 
 [discord]: https://discord.gg/9yUjFtcFqP
