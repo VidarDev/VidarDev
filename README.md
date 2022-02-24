@@ -31,7 +31,7 @@
 #### Top Repositories
 
 <a href="https://github.com/VidarDev/DiscordenoTemplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VidarDev&repo=DiscordenoTemplate&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VidarDev&repo=DiscordenoTemplate&title_color=5500ff&icon_color=5500ff&text_color=5500ff&bg_color=010409" />
 </a>
 
 </br>
