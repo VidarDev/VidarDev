@@ -31,16 +31,16 @@
 
 **Connect with me:**
 
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
+[![website](./assets/globe-light.svg)](#gh-light-mode-only)
+[![website](./assets/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA#gh-dark-mode-only)
+[![website](./assets/youtube-light.svg)](https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA#gh-light-mode-only)
+[![website](./assets/youtube-dark.svg)](https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/VidarDev/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/VidarDev/codestackr#gh-dark-mode-only)
+[![website](./assets/twitter-light.svg)](https://twitter.com/VidarDev/codestackr#gh-light-mode-only)
+[![website](./assets/twitter-dark.svg)](https://twitter.com/VidarDev/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/vidar.dev/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/vidar.dev/#gh-dark-mode-only)
+[![website](./assets/instagram-light.svg)](https://www.instagram.com/vidar.dev/#gh-light-mode-only)
+[![website](./assets/instagram-dark.svg)](https://www.instagram.com/vidar.dev/#gh-dark-mode-only)
 
 [discord]: https://discord.gg/9yUjFtcFqP
