@@ -34,8 +34,7 @@
 [![website](image./assets/globe-light.svg)](#gh-light-mode-only)
 [![website](./assets/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-<code><img height="20" src="./assets/typescript.png"><a href="https://www.youtube.com/channel"></a></code>
-[![website](./assets/youtube.svg)](https://www.youtube.com/channel/)
+<code><img height="20" src="./assets/youtube.svg"><a href="https://www.youtube.com/channel"></a></code>
 &nbsp;&nbsp;
 [![website](./assets/twitter-light.svg)](https://twitter.com/VidarDev/codestackr#gh-light-mode-only)
 [![website](./assets/twitter-dark.svg)](https://twitter.com/VidarDev/codestackr#gh-dark-mode-only)
