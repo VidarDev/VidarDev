@@ -31,12 +31,12 @@
 
 **Connect with me:**
 
-<code><a href="#" target="blank"><img height="30" src="./assets/world.png"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="./assets/world.png"></a></code>
 &nbsp;&nbsp;
-<code><a href="https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA" target="blank"><img height="40" src="./assets/youtube.svg"></a></code>
+<code><a href="https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA" target="_blank"><img height="40" src="./assets/youtube.svg"></a></code>
 &nbsp;&nbsp;
-<code><a href="https://twitter.com/VidarDev" target="blank"><img height="30" src="./assets/twitter.png"></a></code>
+<code><a href="https://twitter.com/VidarDev" target="_blank"><img height="30" src="./assets/twitter.png"></a></code>
 &nbsp;&nbsp;
-<code><a href="https://www.instagram.com/vidar.dev/" target="blank"><img height="30" src="./assets/Instagram.png"></a></code>
+<code><a href="https://www.instagram.com/vidar.dev/" target="_blank"><img height="30" src="./assets/Instagram.png"></a></code>
 
 [discord]: https://discord.gg/9yUjFtcFqP
