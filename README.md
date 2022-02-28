@@ -37,6 +37,6 @@
 &nbsp;&nbsp;
 <code><a href="https://twitter.com/VidarDev"><img height="30" src="./assets/twitter.png"></a></code>
 &nbsp;&nbsp;
-<code><a href="https://www.instagram.com/vidar.dev/"><img height="40" src="./assets/Instagram.png"></a></code>
+<code><a href="https://www.instagram.com/vidar.dev/"><img height="30" src="./assets/Instagram.png"></a></code>
 
 [discord]: https://discord.gg/9yUjFtcFqP
