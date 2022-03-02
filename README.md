@@ -14,6 +14,10 @@
 
 [![Discord](https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)][discord]
 
+**Tutorials****
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][yt]
+
 **Languages and Tools:**
 
 <code><img height="20" src="./assets/typescript.png"></code>
@@ -40,3 +44,4 @@
 <code><a href="https://www.instagram.com/vidar.dev/" target="_blank"><img height="30" src="./assets/Instagram.png"></a></code>
 
 [discord]: https://discord.gg/9yUjFtcFqP
+[yt]: https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA
