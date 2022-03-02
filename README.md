@@ -16,7 +16,7 @@
 
 **Tutorials****
 
-[![YouTube Channel Subscribers](https://img.shields.io/badge?style=for-the-badge&logo=youtube&logoColor=black)][yt]
+[![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-tutorials-red?style=for-the-badge&logo=youtube)][yt]
 
 **Languages and Tools:**
 
@@ -28,7 +28,7 @@
 <code><img height="20" src="./assets/deno_hr_circle.png"></code>
 <code><img height="20" src="./assets/discord.png"></code>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&title_color=5500ff&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHenry&layout=compact&title_color=5500ff&icon_color=ffd700&text_color=2bff00&&bg_color=010409&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHenry&layout=compact&title_color=66fffd&icon_color=ffd700&text_color=2bff00&&bg_color=010409&hide_border=true" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </br>
