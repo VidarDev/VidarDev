@@ -16,7 +16,7 @@
 
 **Tutorials****
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][yt]
+[![YouTube Channel Subscribers](https://img.shields.io/badge/-Youtube-%UCDCHcqyeQgJ-jVSd6VJkbCw?style=for-the-badge&logo=youtube&logoColor=black)][yt]
 
 **Languages and Tools:**
 
