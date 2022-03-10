@@ -28,7 +28,7 @@
 <code><img height="20" src="./assets/deno_hr_circle.png"></code>
 <code><img height="20" src="./assets/discord.png"></code>
 
-| <img align="center" src="github-readme-stats-24x7dev.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=VidarDev&includeForks=true&layout=compact&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-git-master-24x7dev.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=VidarDev&includeForks=true&layout=compact&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </br>
