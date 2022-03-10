@@ -31,7 +31,7 @@
 | <img align="center" src="https://github-readme-stats-24x7.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats-24x7.vercel.app/api/top-langs/?username=VidarDev&includeForks=true&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VidarDev)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vidar)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
