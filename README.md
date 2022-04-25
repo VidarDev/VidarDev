@@ -1,8 +1,6 @@
 <p align="center"><a href="#"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
-
-## I'm a Father, fresh in love, Developer, and Teacher!!
+### I'm a Father, fresh in love, Developer, and Teacher!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Discordeno
@@ -12,11 +10,11 @@
 
 **Support:**
 
-[![Discord](https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)][discord]
+<a href='http://discord.t9realms.dev' target='_blank'>![alt Discord](https://img.shields.io/discord/963086832772452372?style=for-the-badge&logo=discord&logoColor=00eeff)</a>
 
 **Tutorials**
 
-[![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-tutorials-red?style=for-the-badge&logo=youtube)][yt]
+[![yt](https://img.shields.io/youtube/channel/subscribers/UCYWbRfaKuxioM9CV7oY0UNA?style=for-the-badge&logo=youtube&logoColor=ff0000)][yt]
 
 **Languages and Tools:**
 
@@ -28,16 +26,14 @@
 <code><img height="20" src="./assets/deno_hr_circle.png"></code>
 <code><img height="20" src="./assets/discord.png"></code>
 
-| <img align="center" src="https://github-readme-stats-24x7.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats-24x7.vercel.app/api/top-langs/?username=VidarDev&includeForks=true&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" /> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<!-- | <img align="center" src="https://github-readme-stats-24x7.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats-24x7.vercel.app/api/top-langs/?username=VidarDev&includeForks=true&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" /> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime??range=last_year&username=Vidar)](https://github.com/anuraghazra/github-readme-stats) -->
 
-</br>
-
 **Connect with me:**
 
-<code><a href="#" target="_blank"><img height="30" src="./assets/world.png"></a></code>
+<code><a href="https://t9realms.dev" target="_blank"><img height="30" src="./assets/world.png"></a></code>
 &nbsp;&nbsp;
 <code><a  href="https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA" target="_blank"><img height="40" src="./assets/youtube.svg"></a></code>
 &nbsp;&nbsp;
@@ -45,5 +41,4 @@
 &nbsp;&nbsp;
 <code><a href="https://www.instagram.com/vidar.dev/" target="_blank"><img height="30" src="./assets/Instagram.png"></a></code>
 
-[discord]: https://discord.gg/9yUjFtcFqP
 [yt]: https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA
