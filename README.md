@@ -18,13 +18,13 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="./assets/typescript.png"></code>
-<code><img height="20" src="./assets/javascript.svg.png"></code>
-<code><img height="20" src="./assets/nuxt.png"></code>
-<code><img height="20" src="./assets/node.png"></code>
-<code><img height="20" src="./assets/deno-light.svg"></code>
-<code><img height="20" src="./assets/deno_hr_circle.png"></code>
-<code><img height="20" src="./assets/discord.png"></code>
+<code><img height="20" src="https://i.imgur.com/6gnehMt.png"></code>
+<code><img height="20" src="https://i.imgur.com/OFh4UO4.png"></code>
+<code><img height="20" src="https://i.imgur.com/mv3o2mg.png"></code>
+<code><img height="20" src="https://i.imgur.com/jtqZ7Ko.png"></code>
+<code><img height="20" src="https://i.imgur.com/8lssbXJ.png"></code>
+<code><img height="20" src="https://i.imgur.com/b395kl7.png"></code>
+<code><img height="20" src="https://i.imgur.com/yGxDT5g.png"></code>
 
 <!-- | <img align="center" src="https://github-readme-stats-24x7.vercel.app/api?username=VidarDev&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" alt="Viðar's github stats" /></a> | <img align="center" src="https://github-readme-stats-24x7.vercel.app/api/top-langs/?username=VidarDev&includeForks=true&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&hide_border=true" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -->
