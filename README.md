@@ -3,7 +3,7 @@
 ### I'm a Father, fresh in love, Developer, and Teacher!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Discordeno
+- 🥅 2022 Goals: Learn more about everything
 - ⚡ Fun fact: I love to play piano
 - :heart: I love my kids
 - :heart: Today engaged 24.02.2022 💑 Wedding date 23.03.2023 💒💍with <a href="https://discordapp.com/users/856520972152471582">☀𝕁𝕦𝕤𝕥 𝕒 𝕝𝕒𝕕𝕪𝕪🤍𝓐𝓴𝓪𝓼𝓱𝓪🌹#8950</a>
